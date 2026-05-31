@@ -1,1 +1,3 @@
 # Rollercoster_advanced
+
+Update the code so that people age 45 to 55 (inclusive of both ages) ride for free. Use logical operators to check that the age is greater than 45, and it's also less than 55.
